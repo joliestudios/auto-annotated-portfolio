@@ -188,4 +188,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/jolieheadetrans.png
 ---
